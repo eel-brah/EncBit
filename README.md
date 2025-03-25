@@ -200,7 +200,7 @@ EncBit consists of the following main source files:
 
 EncBit provides strong encryption and hashing, making it a powerful tool for data security.
 
-[For in-depth explanation](INDEPTH>md]
+[For in-depth explanation](INDEPTH.md).
 
 ## sources: 
 
